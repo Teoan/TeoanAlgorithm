@@ -9,3 +9,7 @@
 
 [回文字符串](https://github.com/Teoan/TeoanAlgorithm/blob/master/双指针/回文字符串.md)
 
+[归并两个有序数组](https://github.com/Teoan/TeoanAlgorithm/blob/master/双指针/归并两个有序数组.md)
+
+[判断链表是否存在环](https://github.com/Teoan/TeoanAlgorithm/blob/master/双指针/判断链表是否存在环.md)
+
