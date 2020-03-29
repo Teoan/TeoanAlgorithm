@@ -13,3 +13,7 @@
 
 [判断链表是否存在环](https://github.com/Teoan/TeoanAlgorithm/blob/master/双指针/判断链表是否存在环.md)
 
+[最长子序列](https://github.com/Teoan/TeoanAlgorithm/blob/master/双指针/最长子序列.md)
+
+[快速选择](https://github.com/Teoan/TeoanAlgorithm/blob/master/快速选择.md)
+
